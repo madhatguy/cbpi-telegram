@@ -1,7 +1,7 @@
 # cbpi4-telegram
-## Adapted to cbpi4 from https://github.com/ShintoTuna/cbpi-telegram
+## Telegram Push Notifications for Craftbeerpi4
 
-Telegram Push Notifications for Craftbeerpi4
+Adapted to cbpi4 from https://github.com/ShintoTuna/cbpi-telegram
 
 This allows you to send any messages that appear in Craftbeerpi to Telegram.
 
