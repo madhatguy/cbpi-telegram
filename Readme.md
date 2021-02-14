@@ -1,12 +1,12 @@
 # cbpi4-telegram
-##Adopted to cbpi4 from
+##Adapted to cbpi4 from https://github.com/ShintoTuna/cbpi-telegram
 Telegram Push Notifications for Craftbeerpi4
 
 This allows you to send any messages that appear in Craftbeerpi to Telegram.
 
 Setup:
 
-1. Install this plugin from CBPI
+1. Install this plugin from CBPI's plugin section
 2. Install Telegram app from https://telegram.org/
 3. Create Telegram Bot and acquire Bot token
     * On Telegram, search `@BotFather`, send him a `/start` message

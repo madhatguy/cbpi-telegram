@@ -66,4 +66,4 @@ def setup(cbpi):
     :param cbpi: the cbpi core
     :return:
     '''
-    cbpi.plugin.register("TeleNotify", TeleNotify)
+    cbpi.plugin.register("cbpi4-TeleNotify", TeleNotify)
