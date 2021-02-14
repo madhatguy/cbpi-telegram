@@ -1,5 +1,6 @@
-# cbpi-telegram
-Telegram Push Notifications for Craftbeerpi
+# cbpi4-telegram
+##Adopted to cbpi4 from
+Telegram Push Notifications for Craftbeerpi4
 
 This allows you to send any messages that appear in Craftbeerpi to Telegram.
 
